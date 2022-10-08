@@ -1,2 +1,3 @@
 hi thi sis my new text file
  today's date of 8th oct 2022 and time is 10.57
+creating changes in abc.txt to check how mergre conflict arise
