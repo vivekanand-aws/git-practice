@@ -1,3 +1,8 @@
 hi thi sis my new text file
+<<<<<<< HEAD
  today's date of 8th oct 2023 and time is 10.57
 viki dhekane is here
+=======
+ today's date of 8th oct 2022 and time is 10.57
+creating changes in abc.txt to check how mergre conflict arise
+>>>>>>> fb2b1e111b99c266f7f08c4aa50749e97258f7ae
